@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 30 | 10 | 1 | 0 | 19 |
-| **Total** | **30** | **10** | **1** | **0** | **19** |
+| GeeksforGeeks | 31 | 10 | 1 | 0 | 20 |
+| **Total** | **31** | **10** | **1** | **0** | **20** |
 
 ## Solved Problems
 
@@ -41,8 +41,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 24 | [Java loops](https://practice.geeksforgeeks.org/problems/java-loops-set-11726/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_JavaLoops.java) |
 | 25 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
 | 26 | [Last Index of One](https://practice.geeksforgeeks.org/problems/last-index-of-15847/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LastIndexOfOne.java) |
-| 27 | [Missing in Another Shuffled Array](https://practice.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MissingInAnotherShuffledArray.java) |
-| 28 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveSpaces.java) |
-| 29 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 30 | [Value Equal to Position](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ValueEqualToPosition.java) |
+| 27 | [Length of String](https://practice.geeksforgeeks.org/problems/length-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfString.java) |
+| 28 | [Missing in Another Shuffled Array](https://practice.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MissingInAnotherShuffledArray.java) |
+| 29 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveSpaces.java) |
+| 30 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 31 | [Value Equal to Position](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ValueEqualToPosition.java) |
 <!-- COMMITDSA_END -->
