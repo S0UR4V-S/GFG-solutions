@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 33 | 10 | 1 | 0 | 22 |
-| **Total** | **33** | **10** | **1** | **0** | **22** |
+| GeeksforGeeks | 34 | 10 | 1 | 0 | 23 |
+| **Total** | **34** | **10** | **1** | **0** | **23** |
 
 ## Solved Problems
 
@@ -45,7 +45,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 28 | [Last Index of One](https://practice.geeksforgeeks.org/problems/last-index-of-15847/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LastIndexOfOne.java) |
 | 29 | [Length of String](https://practice.geeksforgeeks.org/problems/length-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfString.java) |
 | 30 | [Missing in Another Shuffled Array](https://practice.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MissingInAnotherShuffledArray.java) |
-| 31 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveSpaces.java) |
-| 32 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 33 | [Value Equal to Position](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ValueEqualToPosition.java) |
+| 31 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RedORGreen.java) |
+| 32 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveSpaces.java) |
+| 33 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 34 | [Value Equal to Position](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ValueEqualToPosition.java) |
 <!-- COMMITDSA_END -->
