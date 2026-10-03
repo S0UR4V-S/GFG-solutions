@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 39 | 10 | 1 | 0 | 28 |
-| **Total** | **39** | **10** | **1** | **0** | **28** |
+| GeeksforGeeks | 40 | 10 | 1 | 0 | 29 |
+| **Total** | **40** | **10** | **1** | **0** | **29** |
 
 ## Solved Problems
 
@@ -50,8 +50,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 33 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RedORGreen.java) |
 | 34 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveSpaces.java) |
 | 35 | [Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReplaceAll0sWith5.java) |
-| 36 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 37 | [Sum Except First and Last](https://practice.geeksforgeeks.org/problems/max-length-chain/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumExceptFirstAndLast.java) |
-| 38 | [TreeMap Operations](https://practice.geeksforgeeks.org/problems/java-collection-set-4-treemap/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_TreeMapOperations.java) |
-| 39 | [Value Equal to Position](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ValueEqualToPosition.java) |
+| 36 | [Sort an ArrayList](https://practice.geeksforgeeks.org/problems/sort-an-arraylist/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SortAnArrayList.java) |
+| 37 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 38 | [Sum Except First and Last](https://practice.geeksforgeeks.org/problems/max-length-chain/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumExceptFirstAndLast.java) |
+| 39 | [TreeMap Operations](https://practice.geeksforgeeks.org/problems/java-collection-set-4-treemap/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_TreeMapOperations.java) |
+| 40 | [Value Equal to Position](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ValueEqualToPosition.java) |
 <!-- COMMITDSA_END -->
