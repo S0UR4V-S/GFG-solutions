@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 42 | 10 | 1 | 0 | 31 |
-| **Total** | **42** | **10** | **1** | **0** | **31** |
+| GeeksforGeeks | 43 | 10 | 1 | 0 | 32 |
+| **Total** | **43** | **10** | **1** | **0** | **32** |
 
 ## Solved Problems
 
@@ -30,31 +30,32 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 13 | [Array or List Traversal](https://practice.geeksforgeeks.org/problems/array-traversal/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArrayOrListTraversal.java) |
 | 14 | [ArrayList insertion](https://practice.geeksforgeeks.org/problems/arraylist-insertion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArrayListInsertion.java) |
 | 15 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_BinarySearch.java) |
-| 16 | [Check for Binary String](https://practice.geeksforgeeks.org/problems/check-for-binary/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckForBinaryString.java) |
-| 17 | [Check if All Characters Same](https://practice.geeksforgeeks.org/problems/check-string1818/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfAllCharactersSame.java) |
-| 18 | [Check if divisible by 4](https://practice.geeksforgeeks.org/problems/check-if-divisible-by-43813/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfDivisibleBy4.java) |
-| 19 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ConvertStringToLowerCase.java) |
-| 20 | [Count Distinct in Array](https://practice.geeksforgeeks.org/problems/find-distinct-elements--130928/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CountDistinctInArray.java) |
-| 21 | [Count Perfect Squares](https://practice.geeksforgeeks.org/problems/count-squares3649/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CountPerfectSquares.java) |
-| 22 | [Decrement Array Values by 1](https://practice.geeksforgeeks.org/problems/decrement-array-values/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DecrementArrayValuesBy1.java) |
-| 23 | [Delete Alternate Characters](https://practice.geeksforgeeks.org/problems/java-delete-alternate-characters4036/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DeleteAlternateCharacters.java) |
-| 24 | [Elements in Range](https://practice.geeksforgeeks.org/problems/elements-in-the-range2834/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ElementsInRange.java) |
-| 25 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_EvenPositionedCharacters.java) |
-| 26 | [HashMap Operations](https://practice.geeksforgeeks.org/problems/java-collection-set-3-hashmap/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_HashMapOperations.java) |
-| 27 | [Highest and Lowest Frequencies](https://practice.geeksforgeeks.org/problems/difference-between-highest-and-lowest-occurrence4613/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_HighestAndLowestFrequencies.java) |
-| 28 | [Java loops](https://practice.geeksforgeeks.org/problems/java-loops-set-11726/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_JavaLoops.java) |
-| 29 | [Java Override](https://practice.geeksforgeeks.org/problems/java-override/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_JavaOverride.java) |
-| 30 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 31 | [Last Index of One](https://practice.geeksforgeeks.org/problems/last-index-of-15847/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LastIndexOfOne.java) |
-| 32 | [Length of String](https://practice.geeksforgeeks.org/problems/length-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfString.java) |
-| 33 | [Max and Min In ArrayList](https://practice.geeksforgeeks.org/problems/max-and-min-in-arraylist/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaxAndMinInArrayList.java) |
-| 34 | [Missing in Another Shuffled Array](https://practice.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MissingInAnotherShuffledArray.java) |
-| 35 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RedORGreen.java) |
-| 36 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveSpaces.java) |
-| 37 | [Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReplaceAll0sWith5.java) |
-| 38 | [Sort an ArrayList](https://practice.geeksforgeeks.org/problems/sort-an-arraylist/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SortAnArrayList.java) |
-| 39 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
-| 40 | [Sum Except First and Last](https://practice.geeksforgeeks.org/problems/max-length-chain/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumExceptFirstAndLast.java) |
-| 41 | [TreeMap Operations](https://practice.geeksforgeeks.org/problems/java-collection-set-4-treemap/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_TreeMapOperations.java) |
-| 42 | [Value Equal to Position](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ValueEqualToPosition.java) |
+| 16 | [Binary Search on ArrayList](https://practice.geeksforgeeks.org/problems/binary-search-on-arraylist/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_BinarySearchOnArrayList.java) |
+| 17 | [Check for Binary String](https://practice.geeksforgeeks.org/problems/check-for-binary/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckForBinaryString.java) |
+| 18 | [Check if All Characters Same](https://practice.geeksforgeeks.org/problems/check-string1818/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfAllCharactersSame.java) |
+| 19 | [Check if divisible by 4](https://practice.geeksforgeeks.org/problems/check-if-divisible-by-43813/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfDivisibleBy4.java) |
+| 20 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ConvertStringToLowerCase.java) |
+| 21 | [Count Distinct in Array](https://practice.geeksforgeeks.org/problems/find-distinct-elements--130928/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CountDistinctInArray.java) |
+| 22 | [Count Perfect Squares](https://practice.geeksforgeeks.org/problems/count-squares3649/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CountPerfectSquares.java) |
+| 23 | [Decrement Array Values by 1](https://practice.geeksforgeeks.org/problems/decrement-array-values/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DecrementArrayValuesBy1.java) |
+| 24 | [Delete Alternate Characters](https://practice.geeksforgeeks.org/problems/java-delete-alternate-characters4036/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DeleteAlternateCharacters.java) |
+| 25 | [Elements in Range](https://practice.geeksforgeeks.org/problems/elements-in-the-range2834/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ElementsInRange.java) |
+| 26 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_EvenPositionedCharacters.java) |
+| 27 | [HashMap Operations](https://practice.geeksforgeeks.org/problems/java-collection-set-3-hashmap/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_HashMapOperations.java) |
+| 28 | [Highest and Lowest Frequencies](https://practice.geeksforgeeks.org/problems/difference-between-highest-and-lowest-occurrence4613/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_HighestAndLowestFrequencies.java) |
+| 29 | [Java loops](https://practice.geeksforgeeks.org/problems/java-loops-set-11726/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_JavaLoops.java) |
+| 30 | [Java Override](https://practice.geeksforgeeks.org/problems/java-override/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_JavaOverride.java) |
+| 31 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 32 | [Last Index of One](https://practice.geeksforgeeks.org/problems/last-index-of-15847/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LastIndexOfOne.java) |
+| 33 | [Length of String](https://practice.geeksforgeeks.org/problems/length-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LengthOfString.java) |
+| 34 | [Max and Min In ArrayList](https://practice.geeksforgeeks.org/problems/max-and-min-in-arraylist/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaxAndMinInArrayList.java) |
+| 35 | [Missing in Another Shuffled Array](https://practice.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MissingInAnotherShuffledArray.java) |
+| 36 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RedORGreen.java) |
+| 37 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveSpaces.java) |
+| 38 | [Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReplaceAll0sWith5.java) |
+| 39 | [Sort an ArrayList](https://practice.geeksforgeeks.org/problems/sort-an-arraylist/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SortAnArrayList.java) |
+| 40 | [Start Coding](https://practice.geeksforgeeks.org/problems/start-coding-1/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StartCoding.java) |
+| 41 | [Sum Except First and Last](https://practice.geeksforgeeks.org/problems/max-length-chain/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumExceptFirstAndLast.java) |
+| 42 | [TreeMap Operations](https://practice.geeksforgeeks.org/problems/java-collection-set-4-treemap/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_TreeMapOperations.java) |
+| 43 | [Value Equal to Position](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ValueEqualToPosition.java) |
 <!-- COMMITDSA_END -->
