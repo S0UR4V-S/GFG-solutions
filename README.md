@@ -8,7 +8,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | GeeksforGeeks | 44 | 11 | 1 | 0 | 32 |
-| **Total** | **44** | **11** | **1** | **0** | **32** |
 
 ## Solved Problems
 
